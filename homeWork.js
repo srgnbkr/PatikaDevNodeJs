@@ -6,3 +6,4 @@ function calculateCircleArea(radius){
 }
 
 calculateCircleArea(arguments[0] * 1);
+
